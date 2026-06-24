@@ -77,8 +77,7 @@ Here are the screenshots showcasing the key features of the app:
 <img src="https://raw.githubusercontent.com/KaiParker21/HRMS/master/assets/screenshots/Screenshot_20251115_195836_HRMS.jpg" width="250"/> <br/>
 
 <img src="https://raw.githubusercontent.com/KaiParker21/HRMS/master/assets/screenshots/Screenshot_20251115_195843_HRMS.jpg" width="250"/>
-<img src="https://raw.githubusercontent.com/KaiParker21/HRMS/master/assets/screenshots/Screenshot_20251115_195850_HRMS.jpg" width="250"/>
-<img src="https://raw.githubusercontent.com/KaiParker21/HRMS/master/assets/screenshots/Screenshot_20251115_195856_HRMS.jpg" width="250"/> <br/>
+<img src="https://raw.githubusercontent.com/KaiParker21/HRMS/master/assets/screenshots/Screenshot_20251115_195850_HRMS.jpg" width="250"/> <br/>
 
 <img src="https://raw.githubusercontent.com/KaiParker21/HRMS/master/assets/screenshots/Screenshot_20251115_195904_HRMS.jpg" width="250"/>
 <img src="https://raw.githubusercontent.com/KaiParker21/HRMS/master/assets/screenshots/Screenshot_20251115_195926_HRMS.jpg" width="250"/>
