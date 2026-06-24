@@ -64,7 +64,6 @@ Here are the screenshots showcasing the key features of the app:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KaiParker21/HRMS/master/assets/screenshots/Screenshot_20251115_195618_HRMS.jpg" width="250"/>
 <img src="https://raw.githubusercontent.com/KaiParker21/HRMS/master/assets/screenshots/Screenshot_20251115_195642_HRMS.jpg" width="250"/>
 <img src="https://raw.githubusercontent.com/KaiParker21/HRMS/master/assets/screenshots/Screenshot_20251115_195706_HRMS.jpg" width="250"/> <br/>
 
